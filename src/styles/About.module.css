@@ -1,0 +1,36 @@
+.about {
+  padding: 4rem 2rem;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.about h2 {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #111;
+}
+
+.about p {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  color: #555;
+  font-size: 1.05rem;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.skills li {
+  background: #f1f1f1;
+  color: #111;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}

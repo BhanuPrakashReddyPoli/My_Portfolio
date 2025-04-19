@@ -1,3 +1,35 @@
+# 💼 My Portfolio
+
+A personal portfolio website built using **React** to showcase my projects, skills, and background as a passionate **Full Stack Developer**.
+
+## 🌐 Live Demo
+
+🔗 [View Portfolio](https://my-portfolio-alpha-ashen-33.vercel.app/)
+
+## 📸 Screenshots
+
+| Homepage | Projects Section |
+|----------|------------------|
+| ![Home](https://via.placeholder.com/300x150) | ![Projects](https://via.placeholder.com/300x150) |
+
+> 📌 *Replace the placeholder image URLs with real screenshots of your portfolio UI.*
+
+## 🚀 Features
+
+- Smooth scrolling single-page layout
+- Projects showcase with descriptions
+- About and contact section
+- Responsive design for mobile, tablet, and desktop
+- Clean UI with consistent styling
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, HTML5, CSS3, JavaScript
+- **Deployment**: Vercel
+
+## 🗂️ Folder Structure
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

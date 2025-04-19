@@ -10,7 +10,7 @@ A personal portfolio website built using **React** to showcase my projects, skil
 
 | Homepage | Projects Section |
 |----------|------------------|
-| ![Home](https://via.placeholder.com/300x150) | ![Projects](https://via.placeholder.com/300x150) |
+| ![Home](public/PorfolioHomepage.jpeg) | ![Projects](https://via.placeholder.com/300x150) |
 
 > 📌 *Replace the placeholder image URLs with real screenshots of your portfolio UI.*
 

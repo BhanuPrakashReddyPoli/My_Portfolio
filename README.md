@@ -10,9 +10,7 @@ A personal portfolio website built using **React** to showcase my projects, skil
 
 | Homepage | Projects Section |
 |----------|------------------|
-| ![Home](public/PorfolioHomepage.jpeg) | ![Projects](https://via.placeholder.com/300x150) |
-
-> 📌 *Replace the placeholder image URLs with real screenshots of your portfolio UI.*
+| ![Home](public/PorfolioHomepage.jpeg) | ![Projects](public/PortfolioProjects.jpeg) |
 
 ## 🚀 Features
 
@@ -26,21 +24,33 @@ A personal portfolio website built using **React** to showcase my projects, skil
 
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **Deployment**: Vercel
-
-## 🗂️ Folder Structure
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## 📦 Getting Started
 
-### `npm start`
+To run this project locally:
 
-Runs the app in the development mode.\
+### Prerequisites
+
+- Node.js and npm installed
+- Git installed
+
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/BhanuPrakashReddyPoli/My_Portfolio.git
+cd My_Portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\

@@ -34,13 +34,13 @@ function Hero() {
         {/* Name & Tagline */}
         <motion.div variants={fadeInUp}>
           <h1 className={styles.title}>Hi, I'm BhanuPrakash Reddy Poli</h1>
-          <p className={styles.subtitle}>Software Developer</p>
+          <p className={styles.subtitle}>Full stack developer</p>
         </motion.div>
 
         {/* Scroll Button */}
         {/* Resume Button */}
 <motion.a
-  href="https://drive.google.com/file/d/14VJGwW05BBqiPg1llguHFR5gKND0pzUD/view?usp=drivesdk"  // <-- Google drive link of my resume
+  href="https://drive.google.com/file/d/1LwxI28SHBn8lP22Wbhnd5wzPQEpf51BD/view?usp=sharing"  // <-- Google drive link of my resume
   target="_blank"
   rel="noopener noreferrer"
   className={styles.scrollButton}

@@ -22,7 +22,7 @@ const projectList = [
     images: ['mini1.jpeg','mini2.jpeg','mini1.jpeg'], // multiple screenshots
     description: 'A mini full-stack web application that allows users to register, log in, and manage tasks efficiently. Built using Spring Boot (Java) for the backend and connected to a local database, it securely handles user credentials and session flow. Upon successful login, users are taken to a personalized dashboard displaying their to-dos, tasks, and relevant information. This project showcases my understanding of backend development, authentication flow, and data-driven UI updates.',
     tech: ['Spring Boot with Java','Javascript','MySQL','CSS'],
-    github: 'https://github.com/BhanuPrakashReddyPoli/Mini-full-stack-authentication-app'
+    github: 'https://github.com/BhanuPrakashReddyPoli/Mini-Fullstack-Authentication-App'
   },
   {
     title: 'Google Calendar Clone',

@@ -40,7 +40,7 @@ function Hero() {
         {/* Scroll Button */}
         {/* Resume Button */}
 <motion.a
-  href="https://drive.google.com/file/d/1LwxI28SHBn8lP22Wbhnd5wzPQEpf51BD/view?usp=sharing"  // <-- Google drive link of my resume
+  href="https://drive.google.com/file/d/1tgoVWx6wyKO2Fpgpyz_N60UylCii5Yqq/view?usp=sharing"  // <-- Google drive link of my resume
   target="_blank"
   rel="noopener noreferrer"
   className={styles.scrollButton}

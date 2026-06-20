@@ -11,11 +11,11 @@ const projectList = [
     github: 'https://github.com/BhanuPrakashReddyPoli/My_Portfolio'
   },
   {
-    title: 'Mahavruksha Realty & Developers',
-    image: 'Project2.webp',
-    description: 'A modern and user-friendly real estate website designed to showcase property listings, company details, and contact information. Built with a focus on clean design, responsiveness, and usability, this frontend project provides a strong foundation for a full-fledged platform. Users can browse featured properties and navigate through different sections effortlessly. The backend functionality — including dynamic property data and contact form handling — is currently under development and will be integrated soon.',
-    tech: ['React', 'JavaScript'],
-    github: 'https://github.com/BhanuPrakashReddyPoli/Mahavruksha'
+    title: 'Nuha Patisseries & Cafe',
+    image: 'website1.jpg',
+    description: 'A modern and responsive website developed for Cafe Nuha, a premium patisserie and café in Bengaluru. The platform showcases the cafés ambience, menu offerings, signature desserts, customer reviews, location details, opening hours, and provides direct customer engagement through WhatsApp-powered features including table reservations, custom cake orders, event inquiries, and bulk dessert requests.',
+    tech: ['TypeScript', 'CSS'],
+    github: 'https://github.com/BhanuPrakashReddyPoli/Nuha-Patisseries-Cafe'
   },
   {
     title: 'Mini-full-stack-authentication-app',
